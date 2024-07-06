@@ -30,9 +30,9 @@ DEBUG = True
 ALLOWED_HOSTS = ['*']
 LOGIN_URL = '/login/'
 
-CORS_ALLOW_ALL_ORIGINS = ['*']
+CORS_ALLOW_ALL_ORIGINS = ['http://127.0.0.1:8000','https://inventariomicro-production.up.railway.app']
 
-CSRF_TRUSTED_ORIGINS = ['*']
+CSRF_TRUSTED_ORIGINS = ['http://127.0.0.1','https://inventariomicro-production.up.railway.app']
 
 # Application definition
 
