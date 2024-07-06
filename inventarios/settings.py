@@ -32,7 +32,7 @@ LOGIN_URL = '/login/'
 
 CORS_ALLOW_ALL_ORIGINS = ['*']
 
-#CSRF_TRUSTED_ORIGINS = ['*']
+CSRF_TRUSTED_ORIGINS = ['*']
 
 # Application definition
 
