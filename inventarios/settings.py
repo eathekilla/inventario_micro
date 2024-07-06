@@ -102,9 +102,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'inventarios',
         'USER': 'postgres',
-        'PASSWORD': 'iDwWruJbAMecxolxJMfzCCJNEQsMCpab',
-        'HOST': 'viaduct.proxy.rlwy.net',
-        'PORT': '52028',
+        'PASSWORD': 'OUcfRAVcDzjywzUTJaQharSTuXLkrwqi',
+        'HOST': 'roundhouse.proxy.rlwy.net',
+        'PORT': '16031',
     }}
 
 
